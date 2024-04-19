@@ -1,0 +1,20 @@
+.AnnotationWindow {
+    display: flex;
+    flex-direction: row;
+}
+
+.FloorplanZone {
+    
+}
+
+.FloorplanBackground {
+    position: absolute;
+    z-index: 0;
+    left: 0em;
+}
+
+.FloorplanAnnotation {
+    position: absolute;
+    z-index: 1;
+    left: 0em;
+}
